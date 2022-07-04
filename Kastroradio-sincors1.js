@@ -743,7 +743,7 @@ https://www.sodah.de
             a.appendChild(h);
             d("#" + c + "coverwrapper1").css({
                 position: "absolute",
-                left: "10px",
+                left: "0px",
                 top: "15px",
                 height: "80px",
                 width: "80px",
@@ -758,7 +758,7 @@ https://www.sodah.de
             a.appendChild(h);
             d("#" + c + "coverwrapper2").css({
                 position: "absolute",
-                left: "10px",
+                left: "0px",
                 top: "15px",
                 height: "80px",
                 width: "80px",
