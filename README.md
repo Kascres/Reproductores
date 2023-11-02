@@ -1,9 +1,21 @@
 Reproductores de radio Luna HTML5
+
+
 Reproductores Luna, Adaptados para Radios Zeno, mostrando los Metadatos, eres libre de usarlo/editarlo.
+
+
 Podéis usarlos como base y crear vuestros propios reproductores.
+
+
 RECUERDA QUE NO TE AYUDARÉ CON ESTOS ARCHIVOS, NO PREGUNTES.
+
+
 Editable
+
+
 Debes buscar estas etiquetas en el código y reemplazarlas con sus valores.
+
+
 
 •	Línea 49 :   background-image:url(https://xxxxxx.com/xxxxxx)  /*-Imagen de fondo -*/
 
