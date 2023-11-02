@@ -5,7 +5,7 @@ RECUERDA QUE NO TE AYUDARÉ CON ESTOS ARCHIVOS, NO PREGUNTES.
 Editable
 Debes buscar estas etiquetas en el código y reemplazarlas con sus valores.
 
-•	Línea 49 :   <div class="a" style="background-image:url(https://xxxxxx.com/xxxxxx)">  /*-Imagen de fondo -*/
+•	Línea 49 :   background-image:url(https://xxxxxx.com/xxxxxx)  /*-Imagen de fondo -*/
 
 
 •	Línea 2673 :    radioname: "Radio-KAS",      /*-Nombre de tu Radio-*/ 
