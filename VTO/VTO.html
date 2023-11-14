@@ -713,7 +713,7 @@ function getCurrentlyPlaying() {
       fetch('https://api.streamafrica.net/metadata/index?z=https://stream.zeno.fm/vm2e36xf0k8uv')
         .then(response => response.json())
         .then(data => {
-          if (data && data.currentSong) {
+          if (data && data.currentArtist) {
             var songName = data.currentArtist + " - " + data.currentSong;
             var songTitleElement = document.getElementById('song-title');
             songTitleElement.textContent = 'Tocando agora: ' + songName;
